@@ -1,0 +1,474 @@
+,Bank/FI,Name,Interest Rate,Minimum Balance,Tenure
+0,Salapa Bikas,Fixed Deposit-1Y&above,0.085,0.0,1 year
+1,Salapa Bikas Bank,,,,
+2,Pokhara Finan.,Fixed Deposit-3Y&above,0.08,0.0,3 years
+3,Pokhara Finance,,,,
+4,Nepal Finance,Fixed Deposit-Above2Y,0.08,0.0,2.08 years
+5,Nepal Finance Co.,,,,
+6,Salapa Bikas,Fixed Deposit-3Mto6M,0.08,0.0,3 months
+7,Salapa Bikas Bank,,,,
+8,Samriddhi Fin,Fixed Deposit-5Y&above,0.0785,0.0,5.08 years
+9,Samriddhi Finance Co.,,,,
+10,Janaki Finan.,Fixed Deposit-2Y&above,0.078,0.0,2 years
+11,Janaki Finance Co.,,,,
+12,Guheshwori,Fixed Deposit-5Y&above,0.0775,0.0,5 years
+13,Guheshwori Finance,,,,
+14,Reliance Fin.,Fixed Deposit-Above3Y,0.0775,0.0,3.08 years
+15,Reliance Finance Ltd.,,,,
+16,Samriddhi Fin,Fixed Deposit-3Yto5Y,0.0775,0.0,3 years
+17,Samriddhi Finance Co.,,,,
+18,Samriddhi Fin,Fixed Deposit-2Yto3Y,0.077,0.0,2 years
+19,Samriddhi Finance Co.,,,,
+20,Corporate Dev,Fixed Deposit-10M,0.075,0.0,10 months
+21,Corporate Bikas Bank,,,,
+22,Nepal Finance,Fixed Deposit-1Yto2Y,0.075,0.0,1 year
+23,Nepal Finance Co.,,,,
+24,Samriddhi Fin,Fixed Deposit-1Yto2Y,0.075,0.0,1 year
+25,Samriddhi Finance Co.,,,,
+26,Multipurpose,Fixed Deposit-2Y&above,0.075,0.0,2 years
+27,Multipurpose Finance,,,,
+28,Narayani Dev.,Fixed Deposit-1Y&above,0.0725,0.0,1 year
+29,Narayani Bikas Bank,,,,
+30,Sindhu Bikas,Fixed Deposit-1Y&above,0.0711,0.0,1 year
+31,Sindhu Bikas Bank,,,,
+32,Corporate Dev,Fixed Deposit-6Mto2Y,0.071,0.0,6 months
+33,Corporate Bikas Bank,,,,
+34,Corporate Dev,Fixed Deposit-Upto2Y,0.07,0.0,3 months
+35,Corporate Bikas Bank,,,,
+36,Green Develop.,Fixed Deposit-2Y&above,0.07,0.0,2 years
+37,Green Dev. Bank,,,,
+38,Janaki Finan.,Fixed Deposit-1Y,0.07,0.0,1 year
+39,Janaki Finance Co.,,,,
+40,Pokhara Finan.,Fixed Deposit-2Yto<3Y,0.07,0.0,2 years
+41,Pokhara Finance,,,,
+42,Manjushree,Fixed Deposit-5Y&above,0.07,0.0,5 years
+43,Manjushree Finance,,,,
+44,ICFC Finance,Fixed Deposit-5Y&above,0.07,0.0,5.08 years
+45,ICFC Finance Ltd,,,,
+46,Central Fin,Fixed Deposit-3Y,0.07,0.0,3 years
+47,Central Finance Ltd,,,,
+48,Narayani Dev.,Fixed Deposit-6Mto1Y,0.07,0.0,6 months
+49,Narayani Bikas Bank,,,,
+50,Nepal Finance,Fixed Deposit-9M,0.0675,0.0,9 months
+51,Nepal Finance Co.,,,,
+52,Central Fin,Fixed Deposit-2Y,0.0675,0.0,2 years
+53,Central Finance Ltd,,,,
+54,Gurkhas Finan,Fixed Deposit-2Y&above,0.0675,0.0,2 years
+55,Gurkhas Finance Ltd,,,,
+56,Progressive,Fixed Deposit-3Y&above,0.0675,0.0,3 years
+57,Progressive Fin. Co.,,,,
+58,Reliance Fin.,Fixed Deposit->2Yto3Y,0.0675,0.0,2.08 years
+59,Reliance Finance Ltd.,,,,
+60,Multipurpose,Fixed Deposit-1Y,0.0675,0.0,1 year
+61,Multipurpose Finance,,,,
+62,Goodwill Finan.,Fixed Deposit-3Y&above,0.0675,0.0,3 years
+63,Goodwill Finance Co.,,,,
+64,Pokhara Finan.,Fixed Deposit-1Yto<2Y,0.067,0.0,1 year
+65,Pokhara Finance,,,,
+66,Best Finance,Fixed Deposit-5Y&above,0.0665,0.0,5.08 years
+67,Best Finance Co.,,,,
+68,Green Develop.,Fixed Deposit-1Yto<2Y,0.066,0.0,1 year
+69,Green Dev. Bank,,,,
+70,Gurkhas Finan,Fixed Deposit-1Yto<2Y,0.066,0.0,1 year
+71,Gurkhas Finance Ltd,,,,
+72,NMB Bank,Fixed Deposit-Above5Y,0.066,0.0,5.08 years
+73,NMB Bank,,,,
+74,Pokhara Finan.,Fixed Deposit-270 days,0.066,0.0,9 months
+75,Pokhara Finance,,,,
+76,Manjushree,Fixed Deposit-3Yto<5Y,0.066,0.0,3 years
+77,Manjushree Finance,,,,
+78,NIC Asia,Fixed Deposit-5Y&above,0.066,0.0,5 years
+79,NIC ASIA Bank,,,,
+80,Miteri Bikas,Fixed Deposit->2Y,0.065,0.0,2.08 years
+81,Miteri Bikas Bank,,,,
+82,Corporate Dev,Fixed Deposit,0.065,0.0,3 months
+83,Corporate Bikas Bank,,,,
+84,Corporate Dev,SuperFD-5Y&above,0.065,1.0,5.08 years
+85,Corporate Bikas Bank,,,,
+86,Garima Bikas,Fixed Deposit-2Y&above,0.065,0.0,2 years
+87,Garima Bikas Bank,,,,
+88,Mahalaxmi,Fixed Deposit-3Y&above,0.065,0.0,3 years
+89,Mahalaxmi Bikas Bank,,,,
+90,Lumbini Bikas,Fixed Deposit->2Y,0.065,0.0,2.08 years
+91,Lumbini Bikas Bank,,,,
+92,Shree Invest,Fixed Deposit-2Y&above,0.065,0.0,2 years
+93,Shree Invest &Finance,,,,
+94,Best Finance,Fixed Deposit->3Yto5Y,0.065,0.0,3.08 years
+95,Best Finance Co.,,,,
+96,Progressive,Fixed Deposit-2Yto3Y,0.065,0.0,2 years
+97,Progressive Fin. Co.,,,,
+98,Pokhara Finan.,Fixed Deposit-180 Days,0.065,0.0,6 months
+99,Pokhara Finance,,,,
+100,Reliance Fin.,Fixed Deposit-1Yto2Y,0.065,0.0,1 year
+101,Reliance Finance Ltd.,,,,
+102,Shangrila Dev.,Fixed Deposit-2Y&above,0.065,0.0,2 years
+103,Shangrila Bikas Bank,,,,
+104,Narayani Dev.,Fixed Deposit-3Mto5M,0.065,0.0,3 months
+105,Narayani Bikas Bank,,,,
+106,Central Fin,Fixed Deposit-1 to < 2 year,0.065,0.0,1 year
+107,Central Finance Ltd,,,,
+108,ICFC Finance,Fixed Deposit-2Yto<5Y,0.065,0.0,2 years
+109,ICFC Finance Ltd,,,,
+110,Goodwill Finan.,Fixed Deposit-2Y,0.065,0.0,2 years
+111,Goodwill Finance Co.,,,,
+112,Guheshwori,Fixed Deposit-3Yto<5Y,0.065,0.0,3 years
+113,Guheshwori Finance,,,,
+114,Nepal Finance,Fixd Desposit-6M,0.065,0.0,6 months
+115,Nepal Finance Co.,,,,
+116,Excel Bikas,Fixed Deposit-3Yto5Y,0.065,0.0,3 years
+117,Excel Bikas Bank,,,,
+118,Muktinath,Fixed Deposit->2Yto10Y,0.065,0.0,2.08 years
+119,Muktinath Bikas Bank,,,,
+120,NIMB,Fixed Deposit-Above2Y,0.065,0.0,2.08 years
+121,Nepal Investment Mega Bank,,,,
+122,Kamana Sewa,Fixed Deposit-2Y&above,0.065,0.0,2 years
+123,Kamana Sewa B.Bank,,,,
+124,Jyoti Bikas,Fixed Deposit-3Y&above,0.065,0.0,3.08 years
+125,Jyoti Bikas Bank,,,,
+126,Shine Resunga,Fixed Deposit-5Y&above,0.065,0.0,5 years
+127,Shine Resunga BB,,,,
+128,Janaki Finan.,Fixed Deposit- 9 Month,0.0645,0.0,9 months
+129,Janaki Finance Co.,,,,
+130,Best Finance,Fixed Deposit->2Yto3Y,0.064,0.0,2.08 years
+131,Best Finance Co.,,,,
+132,Gurkhas Finan,Fixed Deposit- 9M,0.0635,0.0,9 months
+133,Gurkhas Finance Ltd,,,,
+134,Progressive,Fixed Deposit-1Yto<2Y,0.0635,0.0,1 year
+135,Progressive Fin. Co.,,,,
+136,Corporate Dev,General Fixed Deposit,0.0625,0.0,3 months
+137,Corporate Bikas Bank,,,,
+138,SCB,Fixed Deposit-5Y,0.0625,0.0,5 years
+139,Standard Chartered Bank,,,,
+140,Best Finance,Fixed Deposit->1Yto2Y,0.0625,0.0,1.08 years
+141,Best Finance Co.,,,,
+142,Guheshwori,Fixed Deposit-2Yto<3Y,0.0625,0.0,2 years
+143,Guheshwori Finance,,,,
+144,Shine Resunga,Fixed Deposit-4Yto<5Y,0.0625,0.0,4 years
+145,Shine Resunga BB,,,,
+146,Himalayan,Fixed Deposit->5Yto10Y,0.0625,0.0,5.08 years
+147,Himalayan Bank,,,,
+148,Multipurpose,Fixed Deposit-9M,0.0625,0.0,9 months
+149,Multipurpose Finance,,,,
+150,Nepal Finance,Fixed Deposit-3M,0.0625,0.0,3 months
+151,Nepal Finance Co.,,,,
+152,Manjushree,Fixed Deposit-2Yto<3Y,0.0625,0.0,2 years
+153,Manjushree Finance,,,,
+154,Prime Bank,Fixed Deposit-Above1Y,0.0625,0.0,1.08 years
+155,Prime Commercial Bank,,,,
+156,Sindhu Bikas,Fixed Deposit-6Mto<1Y,0.0621,0.0,6 months
+157,Sindhu Bikas Bank,,,,
+158,Gurkhas Finan,Fixed Deposit-6M,0.062,0.0,6 months
+159,Gurkhas Finance Ltd,,,,
+160,Janaki Finan.,Fixed Deposit-6m,0.062,0.0,6 months
+161,Janaki Finance Co.,,,,
+162,Prabhu Bank,Fixed Deposit-Above5Y,0.061,0.0,5.08 years
+163,Prabhu Bank,,,,
+164,Green Develop.,Fixed Deposit-6M,0.0605,0.0,6 months
+165,Green Dev. Bank,,,,
+166,Sanima Bank,Fixed Deposit-Above3Y,0.0605,0.0,3.08 years
+167,Sanima Bank,,,,
+168,Miteri Bikas,Fixed Deposit-1Yto2Y,0.06,0.0,1 year
+169,Miteri Bikas Bank,,,,
+170,Gurkhas Finan,Fixed Deposit 3M,0.06,0.0,3 months
+171,Gurkhas Finance Ltd,,,,
+172,Goodwill Finan.,Fixed Deposit-1Y,0.06,0.0,1 year
+173,Goodwill Finance Co.,,,,
+174,RBB,Fixed Deposit-2Y&above,0.06,0.0,2 years
+175,Rastriya Banijya Bank,,,,
+176,NIMB,Fixed Deposit->1Yto2Y,0.06,0.0,1.08 years
+177,Nepal Investment Mega Bank,,,,
+178,Everest Bank,Fixed Deposit-Above5Y,0.06,0.0,5.08 years
+179,Everest Bank,,,,
+180,NMB Bank,Fixed Deposit->3Yto5Y,0.06,0.0,3.08 years
+181,NMB Bank,,,,
+182,Progressive,Fixed Deposit-9M,0.06,0.0,9 months
+183,Progressive Fin. Co.,,,,
+184,Pokhara Finan.,Fixed Deposit-90Days,0.06,0.0,3 months
+185,Pokhara Finance,,,,
+186,Samriddhi Fin,Fixed Deposit-9 month,0.06,0.0,9 months
+187,Samriddhi Finance Co.,,,,
+188,Guheshwori,Fixed Deposit-1Yto<2Y,0.06,0.0,1 year
+189,Guheshwori Finance,,,,
+190,ICFC Finance,Fixed Deposit-1Yto<2Y,0.06,0.0,1 year
+191,ICFC Finance Ltd,,,,
+192,Reliance Fin.,Fixed Deposit-9M,0.06,0.0,9 months
+193,Reliance Finance Ltd.,,,,
+194,Prime Bank,Fixed Deposit-1Y,0.06,0.0,1 year
+195,Prime Commercial Bank,,,,
+196,Shine Resunga,Fixed Deposit-3Yto<4Y,0.06,0.0,3 years
+197,Shine Resunga BB,,,,
+198,Central Fin,Fixed Deposit-9 Month,0.06,0.0,9 months
+199,Central Finance Ltd,,,,
+200,Shangrila Dev.,Fixed Deposit-1Y,0.06,0.0,1 year
+201,Shangrila Bikas Bank,,,,
+202,Manjushree,Fixed Deposit-1Yto<3Y,0.06,0.0,1 year
+203,Manjushree Finance,,,,
+204,Excel Bikas,Fixed Deposit-1Yto<3Y,0.06,0.0,1 year
+205,Excel Bikas Bank,,,,
+206,Multipurpose,Fixed Deposit-6M,0.06,0.0,6 months
+207,Multipurpose Finance,,,,
+208,Shree Invest,Fixed Deposit-1Yto2Y,0.06,0.0,1 year
+209,Shree Invest &Finance,,,,
+210,Siddhartha,Fixed Deposit->2Y,0.06,0.0,2.08 years
+211,Siddhartha Bank,,,,
+212,Machhapuchhre,Fixed Deposit-3Y&above,0.06,0.0,3 years
+213,Machhapuchhre Bank,,,,
+214,Global IME,Fixed Deposit-3Y&above,0.06,0.0,3 years
+215,Global IME Bank,,,,
+216,Sanima Bank,Fixed Deposit->2Yto3Y,0.0585,0.0,2.08 years
+217,Sanima Bank,,,,
+218,Kumari Bank,Fixed Deposit-2Y&above,0.0581,0.0,2 years
+219,Kumari Bank,,,,
+220,Multipurpose,Fixed Deposit-3M,0.058,0.0,3 months
+221,Multipurpose Finance,,,,
+222,Muktinath,Fixed Deposit-1Yto2Y,0.058,0.0,1 year
+223,Muktinath Bikas Bank,,,,
+224,Green Develop.,Fixed Deposit-3M,0.0575,0.0,3 months
+225,Green Dev. Bank,,,,
+226,Shine Resunga,Fixed Deposit-2Yto<3Y,0.0575,0.0,2 years
+227,Shine Resunga BB,,,,
+228,Prime Bank,Fixed Deposit-6Mto<1Y,0.0575,0.0,6 months
+229,Prime Commercial Bank,,,,
+230,Progressive,Fixed Deposit- 6M,0.0575,0.0,6 months
+231,Progressive Fin. Co.,,,,
+232,Samriddhi Fin,Fixed Deposit-6 month,0.0575,0.0,6 months
+233,Samriddhi Finance Co.,,,,
+234,Guheshwori,Fixed Deposit-6Mto9M,0.0575,0.0,6 months
+235,Guheshwori Finance,,,,
+236,Reliance Fin.,Fixed Deposit- 6M,0.0575,0.0,6 months
+237,Reliance Finance Ltd.,,,,
+238,Central Fin,Fixed Deposit-6 month,0.0575,0.0,6 months
+239,Central Finance Ltd,,,,
+240,Global IME,Fixed Deposit-2Yto<3Y,0.0575,0.0,2 years
+241,Global IME Bank,,,,
+242,Nabil Bank,Fixed Deposit-Above5Y,0.0575,0.0,5.08 years
+243,Nabil Bank,,,,
+244,Sanima Bank,Fixed Deposit->1Yto2Y,0.0575,0.0,1.08 years
+245,Sanima Bank,,,,
+246,Laxmi Sunrise,Fixed Deposit-5Y&above,0.0575,0.0,5 years
+247,Laxmi Sunrise,,,,
+248,Citizens Bank,Fixed Deposit-2Y&above,0.0565,0.0,2 years
+249,Citizens Bank Int'l,,,,
+250,Prabhu Bank,Fixed Deposit->1Yto5Y,0.056,0.0,1 year
+251,Prabhu Bank,,,,
+252,Janaki Finan.,Fixed Deposit-3 Month,0.056,0.0,3 months
+253,Janaki Finance Co.,,,,
+254,Goodwill Finan.,Fixed Deposit-9M,0.056,0.0,9 months
+255,Goodwill Finance Co.,,,,
+256,Krishi Bikas,Fixed Deposit-3Y&above,0.0551,0.0,3 years
+257,Agricultural Dev. Bank,,,,
+258,Nepal Bank,Fixed Deposit->5Y,0.055,0.0,5.08 years
+259,Nepal Bank Ltd.,,,,
+260,Shine Resunga,Fixed Deposit-1Yto<2Y,0.055,0.0,1 year
+261,Shine Resunga BB,,,,
+262,Goodwill Finan.,Fixed Deposit-6M,0.055,0.0,6 months
+263,Goodwill Finance Co.,,,,
+264,Shree Invest,Fixed Deposit-6M,0.055,0.0,6 months
+265,Shree Invest &Finance,,,,
+266,Himalayan,Fixed Deposit->2Yto5Y,0.055,0.0,2.08 years
+267,Himalayan Bank,,,,
+268,Nepal SBI,Fixed Deposit-3Y&above,0.055,0.0,3 years
+269,Nepal SBI Bank,,,,
+270,Laxmi Sunrise,Fixed Deposit-2Yto<5Y,0.055,0.0,2 years
+271,Laxmi Sunrise,,,,
+272,Siddhartha,Fixed Deposit-1Yto2Y,0.055,0.0,1 year
+273,Siddhartha Bank,,,,
+274,Prime Bank,Fixed Deposit-3Mto<6M,0.055,0.0,3 months
+275,Prime Commercial Bank,,,,
+276,Progressive,Fixed Deposit-3M,0.055,0.0,3 months
+277,Progressive Fin. Co.,,,,
+278,Samriddhi Fin,Fixed Deposit-3M,0.055,0.0,3 months
+279,Samriddhi Finance Co.,,,,
+280,Manjushree,Fixed Deposit-6Mto<1Y,0.055,0.0,6 months
+281,Manjushree Finance,,,,
+282,Central Fin,Fixed Deposit-3M,0.055,0.0,3 months
+283,Central Finance Ltd,,,,
+284,NIC Asia,Fixed Deposit-1Yto<5Y,0.055,0.0,1 year
+285,NIC ASIA Bank,,,,
+286,Nabil Bank,FD->2Yto5Y,0.055,0.0,2.08 years
+287,Nabil Bank,,,,
+288,NMB Bank,Fixed Deposit->2Yto3Y,0.055,0.0,2.08 years
+289,NMB Bank,,,,
+290,Kumari Bank,Fixed Deposit-1Yto<2Y,0.0541,0.0,1 year
+291,Kumari Bank,,,,
+292,Best Finance,Fixed Deposit->6Mto1Y,0.0535,0.0,7 months
+293,Best Finance Co.,,,,
+294,Citizens Bank,Fixed Deposit-1Yto<2Y,0.0525,0.0,1 year
+295,Citizens Bank Int'l,,,,
+296,Mahalaxmi,Fixed Deposit-1Yto<3Y,0.0525,0.0,1 year
+297,Mahalaxmi Bikas Bank,,,,
+298,Lumbini Bikas,Fixed Deposit->1Yto2Y,0.0525,0.0,1.08 years
+299,Lumbini Bikas Bank,,,,
+300,Kamana Sewa,Fixed Deposit-1Yto<2Y,0.0525,0.0,1 year
+301,Kamana Sewa B.Bank,,,,
+302,Goodwill Finan.,Fixed Deposit-3M,0.0525,0.0,3 months
+303,Goodwill Finance Co.,,,,
+304,Nabil Bank,Fixed Deposit->1Yto2Y,0.0525,0.0,1.08 years
+305,Nabil Bank,,,,
+306,Guheshwori,Fixed Deposit-3M,0.0525,0.0,3 months
+307,Guheshwori Finance,,,,
+308,Manjushree,Fixed Deposit-3Mto<6M,0.0525,0.0,3 months
+309,Manjushree Finance,,,,
+310,Reliance Fin.,Fixed Deposit-3M,0.0525,0.0,3 months
+311,Reliance Finance Ltd.,,,,
+312,Mahalaxmi,Fixed Deposit-6M<1Y,0.0515,0.0,6 months
+313,Mahalaxmi Bikas Bank,,,,
+314,Lumbini Bikas,Fixed Deposit-6Mto1Y,0.051,0.0,6 months
+315,Lumbini Bikas Bank,,,,
+316,Prabhu Bank,FD-6Mto1Y,0.051,0.0,6 months
+317,Prabhu Bank,,,,
+318,Miteri Bikas,Fixed Deposit-6Mto9M,0.05,0.0,6 months
+319,Miteri Bikas Bank,,,,
+320,Shangrila Dev.,Fixed Deposit-6Mto<1Y,0.05,0.0,6 months
+321,Shangrila Bikas Bank,,,,
+322,RBB,Fixed Deposit-1Yto2Y,0.05,0.0,1 year
+323,Rastriya Banijya Bank,,,,
+324,Nabil Bank,Fixed Deposit-3Mto1Y,0.05,0.0,3 months
+325,Nabil Bank,,,,
+326,Nabil Bank,Cumulative FD,0.05,0.0,1 year
+327,Nabil Bank,,,,
+328,NIMB,Fixed Deposit->6Mto1Y,0.05,0.0,7 months
+329,Nepal Investment Mega Bank,,,,
+330,Himalayan,Fixed Deposit-1Yto2Y,0.05,0.0,1 year
+331,Himalayan Bank,,,,
+332,Nepal SBI,Fixed Deposit-2Yto<3Y,0.05,0.0,2 years
+333,Nepal SBI Bank,,,,
+334,Machhapuchhre,Fixed Deposit-1Yto<3Y,0.05,0.0,1 year
+335,Machhapuchhre Bank,,,,
+336,Sanima Bank,Fixed Depsit- >6Mto1Y,0.05,0.0,7 months
+337,Sanima Bank,,,,
+338,Best Finance,Fixed Deposit->3Mto6M,0.05,0.0,4 months
+339,Best Finance Co.,,,,
+340,Global IME,Fixed Deposit-1Yto<2Y,0.05,0.0,1 year
+341,Global IME Bank,,,,
+342,Muktinath,Fixed Deposit-9Mto<1Y,0.05,0.0,9 months
+343,Muktinath Bikas Bank,,,,
+344,Laxmi Sunrise,Fixed Deposit-1Yto<2Y,0.05,0.0,1 year
+345,Laxmi Sunrise,,,,
+346,Mahalaxmi,Fixed Deposit-3Mto<6M,0.0485,0.0,3 months
+347,Mahalaxmi Bikas Bank,,,,
+348,Kumari Bank,Fixed Deposit-6Mto<1Y,0.0481,0.0,6 months
+349,Kumari Bank,,,,
+350,Nepal Bank,Fixed Deposit->2Yto5Y,0.0475,0.0,2.08 years
+351,Nepal Bank Ltd.,,,,
+352,Miteri Bikas,Fixed Deposit-3Mto6M,0.0475,0.0,3 months
+353,Miteri Bikas Bank,,,,
+354,Citizens Bank,Fixed Deposit-6Mto<1Y,0.0475,0.0,6 months
+355,Citizens Bank Int'l,,,,
+356,Best Finance,Fixed Deposit-3 month,0.0475,0.0,3 months
+357,Best Finance Co.,,,,
+358,Excel Bikas,Fixed Deposit-9M,0.0465,0.0,9 months
+359,Excel Bikas Bank,,,,
+360,Siddhartha,Fixed Deposit-3Mto<1Y,0.046,0.0,3 months
+361,Siddhartha Bank,,,,
+362,Nepal SBI,Fixed Deposit-1Yto<2Y,0.0451,0.0,1 year
+363,Nepal SBI Bank,,,,
+364,Muktinath,Fixed Deposit-6M,0.045,0.0,6 months
+365,Muktinath Bikas Bank,,,,
+366,Shine Resunga,Fixed Deposit-6Mto<1Y,0.045,0.0,6 months
+367,Shine Resunga BB,,,,
+368,Jyoti Bikas,Fixed Deposit->1Yto<3Y,0.045,0.0,1.08 years
+369,Jyoti Bikas Bank,,,,
+370,Garima Bikas,Fixed Deposit-1Yto<2Y,0.045,0.0,1 year
+371,Garima Bikas Bank,,,,
+372,Kamana Sewa,Fixed Deposit-6Mto<1Y,0.045,0.0,6 months
+373,Kamana Sewa B.Bank,,,,
+374,Himalayan,Fixed Deposit-9M,0.045,0.0,9 months
+375,Himalayan Bank,,,,
+376,Everest Bank,Fixed Deposit->2Yto5Y,0.045,0.0,2.08 years
+377,Everest Bank,,,,
+378,Global IME,Fixed Deposit-6Mto<1Y,0.045,0.0,6 months
+379,Global IME Bank,,,,
+380,Citizens Bank,Fixed Deposit-3Mto<6M,0.045,0.0,3 months
+381,Citizens Bank Int'l,,,,
+382,NMB Bank,Fixed Deposit->13Mto2Y,0.045,0.0,1 year
+383,NMB Bank,,,,
+384,Laxmi Sunrise,Fixed Deposit-6Mto<1Y,0.045,0.0,6 months
+385,Laxmi Sunrise,,,,
+386,Excel Bikas,Fixed Deposit-6M,0.044,0.0,6 months
+387,Excel Bikas Bank,,,,
+388,ICFC Finance,Fixed Deposit-6Mto<1Y,0.044,0.0,6 months
+389,ICFC Finance Ltd,,,,
+390,Kumari Bank,Fixed Deposit-3Mto<6M,0.0431,0.0,3 months
+391,Kumari Bank,,,,
+392,Nepal SBI,Fixed Deposit-6Mto<1Y,0.043,0.0,6 months
+393,Nepal SBI Bank,,,,
+394,NIMB,Fixed Deposit-3Mto6M,0.0425,0.0,3 months
+395,Nepal Investment Mega Bank,,,,
+396,SCB,Fixed Deposit-1Yto<5Y,0.0425,0.0,1 year
+397,Standard Chartered Bank,,,,
+398,NMB Bank,Manyajan Muddati,0.0425,0.0,1 year
+399,NMB Bank,,,,
+400,NMB Bank,Fixed Deposit->6Mto13M,0.0425,0.0,7 months
+401,NMB Bank,,,,
+402,Everest Bank,Fixed Deposit-1Yto2Y,0.0425,0.0,1 year
+403,Everest Bank,,,,
+404,Krishi Bikas,Fixed Depsit-2Year,0.0424,0.0,2 years
+405,Agricultural Dev. Bank,,,,
+406,Excel Bikas,Fixed Deposit-3M,0.0415,0.0,3 months
+407,Excel Bikas Bank,,,,
+408,Global IME,Fixed Deposit-3Mto<6M,0.04,0.0,3 months
+409,Global IME Bank,,,,
+410,Shangrila Dev.,Fixed Deposit-3Mto<6M,0.04,0.0,3 months
+411,Shangrila Bikas Bank,,,,
+412,Jyoti Bikas,Fixed Deposit-1Year,0.04,0.0,1 year
+413,Jyoti Bikas Bank,,,,
+414,Nepal Bank,Fixed Deposit-Upto2Year,0.04,0.0,3 months
+415,Nepal Bank Ltd.,,,,
+416,Garima Bikas,Fixed Deposit-6Mto<1Y,0.04,0.0,6 months
+417,Garima Bikas Bank,,,,
+418,Kamana Sewa,Fixed Deposit-3Mto<6M,0.04,0.0,3 months
+419,Kamana Sewa B.Bank,,,,
+420,RBB,Fixed Deposit-3Mto1Y,0.04,0.0,3 months
+421,Rastriya Banijya Bank,,,,
+422,SCB,Fixed Deposit-3Mto<1Y,0.04,0.0,3 months
+423,Standard Chartered Bank,,,,
+424,Himalayan,Fixed Deposit-6M,0.04,0.0,6 months
+425,Himalayan Bank,,,,
+426,Everest Bank,Fixed Deposit-3Mto<1Y,0.04,0.0,3 months
+427,Everest Bank,,,,
+428,Laxmi Sunrise,Fixed Deposit-3Mto<6M,0.04,0.0,3 months
+429,Laxmi Sunrise,,,,
+430,Krishi Bikas,Fixed Deposit-1Y,0.04,0.0,1 year
+431,Agricultural Dev. Bank,,,,
+432,Sanima Bank,Fixed Deposit-3Mto6M,0.04,0.0,3 months
+433,Sanima Bank,,,,
+434,NIC Asia,Fixed Deposit->3Mto<1Y,0.04,0.0,4 months
+435,NIC ASIA Bank,,,,
+436,ICFC Finance,Fixed Deposit-3Mto<1Y,0.04,0.0,3 months
+437,ICFC Finance Ltd,,,,
+438,Garima Bikas,Fixed Deposit-3Mto<6M,0.0375,0.0,3 months
+439,Garima Bikas Bank,,,,
+440,Machhapuchhre,Fixed Deposit-6Mto<1Y,0.0375,0.0,6 months
+441,Machhapuchhre Bank,,,,
+442,Jyoti Bikas,Fixed Deposit-6Mto<1Y,0.035,0.0,6 months
+443,Jyoti Bikas Bank,,,,
+444,Nepal SBI,Fixed Deposit-3Mto<6M,0.035,0.0,3 months
+445,Nepal SBI Bank,,,,
+446,Machhapuchhre,Fixed Deposit-3Mto<6M,0.035,0.0,3 months
+447,Machhapuchhre Bank,,,,
+448,NIC Asia,Fixed Deposit-3M,0.035,0.0,3 months
+449,NIC ASIA Bank,,,,
+450,Himalayan,Fixed Deposit-3M,0.0325,0.0,3 months
+451,Himalayan Bank,,,,
+452,Krishi Bikas,Fixed Deposit- 6M,0.0325,0.0,6 months
+453,Agricultural Dev. Bank,,,,
+454,Jyoti Bikas,Fixed Deposit-3M,0.03,0.0,3 months
+455,Jyoti Bikas Bank,,,,
+456,Krishi Bikas,Fixed Deposit-3M,0.03,0.0,3 months
+457,Agricultural Dev. Bank,,,,
+458,NMB Bank,Saral Muddati-3M,0.03,0.0,3 months
+459,NMB Bank,,,,
+460,NMB Bank,Fixed Deposit-Upto6M,0.03,0.0,3 months
+461,NMB Bank,,,,
+462,,,,,
+463,"Updated as on: Mar 22, 2025",,,,
+464,,,,,
+465,Latest article,,,,
+466,,,,,
+467,Chaitra 2081 Interest Updated,,,,
+468,2025-03-22 00:00:00,,,,
+469,,,,,
+470,Base Rate Update Ongoing,,,,
+471,2025-03-16 00:00:00,,,,
+472,Personal Loan,,,,
