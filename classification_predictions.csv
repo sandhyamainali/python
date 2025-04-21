@@ -1,0 +1,11 @@
+Model,Actual,Predicted
+Logistic Regression,1,0
+Logistic Regression,1,0
+Decision Tree Classifier,1,1
+Decision Tree Classifier,1,1
+Random Forest Classifier,1,1
+Random Forest Classifier,1,1
+KNN Classifier,1,1
+KNN Classifier,1,1
+SVC,1,1
+SVC,1,1

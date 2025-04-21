@@ -1,0 +1,9 @@
+This file is use in profiling tools for performance and memory usage
+    Reads a large text file and returns the frequency of each word in descending order.
+    
+    Args:
+    - file_path (str): The path to the text file to read.
+    
+    Returns:
+    - List of tuples: A list of tuples where each tuple contains a word and its frequency, sorted by frequency in descending order.
+    

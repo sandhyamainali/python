@@ -1,0 +1,27 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "Decision Tree Classifier": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0
+    },
+    "Random Forest Classifier": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0
+    },
+    "KNN Classifier": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0
+    },
+    "SVC": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0
+    }
+}

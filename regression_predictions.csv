@@ -1,0 +1,9 @@
+Model,Actual,Predicted
+Linear Regression,4.5,4.655607008571387
+Linear Regression,4.2,3.8679843638893274
+Decision Tree Regressor,4.5,4.1
+Decision Tree Regressor,4.2,4.1
+Random Forest Regressor,4.5,4.7720000000000065
+Random Forest Regressor,4.2,4.7720000000000065
+SVR,4.5,5.839372213331037
+SVR,4.2,5.731930534879426
